@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "title": "Gautam Jagthap — Data Engineer & Analyst",
+        "description": "Computer Science undergraduate building data-driven systems and intelligent applications.",
+        "logo": "GJ.dev",
+        "availableForWork": true,
+        "availableText": "Available for Opportunities",
+        "copyright": "© 2025 Gautam Jagthap · Built with intention"
+    },
+    "hero": {
+        "firstName": "Gautam",
+        "lastName": "Jagthap",
+        "role": "Data Engineer",
+        "roleAccent": "Analyst",
+        "description": "Computer Science undergraduate building data-driven systems and intelligent applications — turning raw data into meaningful insights at the intersection of analytics, AI, and real-world engineering."
+    },
+    "marquee": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Machine Learning",
+        "React.js",
+        "Node.js",
+        "Data Analytics",
+        "MongoDB",
+        "EDA",
+        "Java",
+        "Git",
+        "Dashboarding"
+    ],
+    "about": {
+        "intro": {
+            "headline": "I work at the intersection of <strong>data</strong>, technology, and real-world <strong>problem solving</strong>.",
+            "bio": [
+                "I'm a Computer Science undergraduate with hands-on experience in data analytics, research, and product development. I enjoy turning raw data into meaningful insights and building scalable, intelligent solutions.",
+                "Currently targeting roles as a Data Analyst, Data Scientist, or Data Engineer — with a long-term vision of building impactful tech products that actually move the needle."
+            ],
+            "stats": [
+                {
+                    "value": "2",
+                    "label": "Internships"
+                },
+                {
+                    "value": "5+",
+                    "label": "Projects"
+                },
+                {
+                    "value": "3+",
+                    "label": "Years Coding"
+                }
+            ],
+            "status": {
+                "badge": "Open to Work",
+                "role": "Seeking Full-Time / Internship Roles",
+                "targets": "Data Analyst · Data Scientist · Data Engineer"
+            },
+            "interests": [
+                "Data-driven product development",
+                "AI-integrated platforms & tooling",
+                "Exploratory data analysis & visualization",
+                "Scalable backend systems & pipelines",
+                "Open-source collaboration"
+            ]
+        },
+        "experience": [
+            {
+                "date": "[ Your Date Range Here ]",
+                "role": "Internship Role — 1",
+                "company": "Company Name · City / Remote",
+                "description": "Brief description of what you did, what impact you made, and what you built or analyzed. Replace this with your real experience details.",
+                "tags": [
+                    "Python",
+                    "SQL",
+                    "Data Analysis"
+                ]
+            },
+            {
+                "date": "[ Your Date Range Here ]",
+                "role": "Internship Role — 2",
+                "company": "Company Name · City / Remote",
+                "description": "Brief description of what you did, what impact you made, and what you built or analyzed. Replace this with your real experience details.",
+                "tags": [
+                    "Power BI",
+                    "Excel",
+                    "Dashboarding"
+                ]
+            }
+        ],
+
+
+        "education": {
+            "degree": "B.E. in Computer Science & Engineering",
+            "college": "Your College / University Name",
+            "year": "Expected Graduation: [ Year ]",
+            "badge": "CS Undergrad"
+        },
+
+
+        "skills": [
+            {
+                "icon": "ri-code-line",
+                "title": "Programming & Tools",
+                "pills": [
+                    "Python",
+                    "Java",
+                    "JavaScript",
+                    "SQL"
+                ]
+            },
+            {
+                "icon": "ri-bar-chart-line",
+                "title": "Data & Analytics",
+                "pills": [
+                    "Data Cleaning",
+                    "EDA",
+                    "Data Visualization",
+                    "Dashboarding",
+                    "Power BI",
+                    "Excel"
+                ]
+            },
+            {
+                "icon": "ri-stack-line",
+                "title": "Frameworks & Tech",
+                "pills": [
+                    "React.js",
+                    "Node.js",
+                    "MongoDB",
+                    "REST APIs"
+                ]
+            },
+            {
+                "icon": "ri-brain-line",
+                "title": "Core Concepts",
+                "pills": [
+                    "DSA",
+                    "DBMS",
+                    "ML Fundamentals",
+                    "OOP"
+                ]
+            },
+            {
+                "icon": "ri-tools-line",
+                "title": "Tools & Platforms",
+                "pills": [
+                    "Git",
+                    "GitHub",
+                    "VS Code",
+                    "GPT-based AI Tools",
+                    "Jupyter"
+                ]
+            }
+        ],
+
+
+        "resume": {
+            "title": "GautamJagthap_Resume.pdf",
+            "description": "Updated April 2025 · Data Analyst / Data Engineer focus",
+            "downloadUrl": "GautamJagthap_Resume.pdf"
+        }
+    },
+
+    "projects": [
+        {
+            "id": "001",
+            "size": "large",
+            "title": "Project Name One",
+            "description": "Brief project description here — what problem it solves, what data or technology was used, and what the key outcome was. Add 2-3 lines of meaningful context.",
+            "tags": [
+                "Python",
+                "SQL",
+                "Power BI"
+            ],
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "#"
+                },
+                {
+                    "label": "Live",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "size": "medium",
+            "title": "Project Name Two",
+            "description": "Brief project description here — what problem it solves and the tech used.",
+            "tags": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "size": "full",
+            "title": "Project Name Three",
+            "description": "Brief description of this project and its impact.",
+            "tags": [
+                "Python",
+                "ML"
+            ],
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "id": "004",
+            "size": "full",
+            "title": "Project Name Four",
+            "description": "Brief description of this project and its impact.",
+            "tags": [
+                "SQL",
+                "Excel"
+            ],
+            "links": [
+                {
+                    "label": "GitHub",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "id": "005",
+            "size": "full",
+            "title": "Project Name Five",
+            "description": "Brief description of this project and its impact.",
+            "tags": [
+                "JavaScript",
+                "API"
+            ],
+            "links": [
+                {
+                    "label": "Live",
+                    "url": "#"
+                }
+            ]
+        }
+    ],
+
+    "contact": {
+        "heading": "Let's build something <em>meaningful</em> together.",
+        "description": "Whether you're looking for a data analyst, a full-stack developer, or just want to talk tech — my inbox is open. I'm currently available for internships and full-time opportunities.",
+        "links": [
+            {
+                "icon": "✉",
+                "label": "Email",
+                "value": "gjagthap90@gmail.com",
+                "href": "mailto:gjagthap90@gmail.com"
+            },
+            {
+                "icon": "in",
+                "label": "LinkedIn",
+                "value": "linkedin.com/in/Gautam Jagthap",
+                "href": "https://www.linkedin.com/in/gautam-jagthap-469b5729b/"
+            },
+            {
+                "icon": "⌥",
+                "label": "GitHub",
+                "value": "github.com/GautamJagthap",
+                "href": "https://github.com/GautamJagthap"
+            }
+        ]
+    },
+    "footer": {
+        "links": [
+            {
+                "label": "GitHub",
+                "href": "https://github.com/GautamJagthap"
+            },
+            {
+                "label": "LinkedIn",
+                "href": "https://www.linkedin.com/in/gautam-jagthap-469b5729b/"
+            },
+            {
+                "label": "Email",
+                "href": "mailto:gjagthap90@gmail.com"
+            }
+        ]
+    }
+}
