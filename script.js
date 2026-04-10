@@ -135,7 +135,9 @@ function renderSkills(skills) {
         .map(
             (group, i) => `
       <div class="skill-group reveal${i % 3 !== 0 ? ' reveal-delay-' + (i % 3) : ''}">
-        <div class="skill-group-icon">${group.icon}</div>
+        <div class="skill-group-icon">
+          <i class="${group.icon}"></i>
+        </div>
         <div class="skill-group-title">${group.title}</div>
         <div class="skill-pills">
           ${group.pills.map((p) => `<span class="skill-pill">${p}</span>`).join('')}
@@ -148,10 +150,17 @@ function renderSkills(skills) {
 function renderResume(resume) {
     const el = document.getElementById('resumePreview');
     el.innerHTML = `
-    <div class="resume-icon">📄</div>
+    <div class="resume-icon"><i class="ri-file-text-line"></i></div>
     <div class="resume-title">${resume.title}</div>
     <div class="resume-desc">${resume.description}</div>
-    <a href="${resume.downloadUrl}" class="resume-btn">↓ Download Resume</a>
+
+    <div class="resume-frame">
+      <iframe src="${resume.downloadUrl}" width="100%" height="500px"></iframe>
+    </div>
+
+    <a href="${resume.downloadUrl}" class="resume-btn" download>
+      ↓ Download Resume
+    </a>
   `;
 }
 
