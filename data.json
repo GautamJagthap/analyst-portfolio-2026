@@ -2,7 +2,7 @@
     "meta": {
         "title": "Gautam Jagthap — Data Engineer & Analyst",
         "description": "Computer Science undergraduate building data-driven systems and intelligent applications.",
-        "logo": "GJ.dev",
+        "logo": "Gautam J.",
         "availableForWork": true,
         "availableText": "Available for Opportunities",
         "copyright": "© 2025 Gautam Jagthap · Built with intention"
@@ -10,30 +10,32 @@
     "hero": {
         "firstName": "Gautam",
         "lastName": "Jagthap",
-        "role": "Data Engineer",
-        "roleAccent": "Analyst",
-        "description": "Computer Science undergraduate building data-driven systems and intelligent applications — turning raw data into meaningful insights at the intersection of analytics, AI, and real-world engineering."
+        "role": "Data Analyst",
+        "roleAccent": "Data & AI",
+        "description": "Computer Science undergraduate specializing in data analytics and insight generation, with experience in building data-driven systems and research-backed solutions. Passionate about solving real-world problems through analytics, AI, and scalable technology."
     },
     "marquee": [
         "Python",
         "SQL",
         "Power BI",
         "Machine Learning",
-        "React.js",
-        "Node.js",
         "Data Analytics",
-        "MongoDB",
         "EDA",
-        "Java",
+        "Data Preprocessing",
+        "Power Platform",
+        "Advance Excel",
+        "Data Modelling",
+        "System Designing",
         "Git",
+        "GitHub",
         "Dashboarding"
     ],
     "about": {
         "intro": {
             "headline": "I work at the intersection of <strong>data</strong>, technology, and real-world <strong>problem solving</strong>.",
             "bio": [
-                "I'm a Computer Science undergraduate with hands-on experience in data analytics, research, and product development. I enjoy turning raw data into meaningful insights and building scalable, intelligent solutions.",
-                "Currently targeting roles as a Data Analyst, Data Scientist, or Data Engineer — with a long-term vision of building impactful tech products that actually move the needle."
+                "I'm a Computer Science undergraduate with hands-on experience in data analytics, research, and data-driven product development. I specialize in transforming raw data into actionable insights that support decision-making and real-world impact.",
+                "Currently targeting roles as a Data Analyst, with a strong interest in Data Science and Data Engineering, and a long-term vision of building scalable, AI-powered solutions and impactful tech products."
             ],
             "stats": [
                 {
@@ -64,79 +66,55 @@
         },
         "experience": [
             {
-                "date": "[ Your Date Range Here ]",
-                "role": "Internship Role — 1",
-                "company": "Company Name · City / Remote",
-                "description": "Brief description of what you did, what impact you made, and what you built or analyzed. Replace this with your real experience details.",
+                "date": "June – July 2025",
+                "role": "Research Intern",
+                "company": "Medicaps University, Indore",
+                "description": "Analyzed 30+ research papers to identify limitations in existing steganographic models. Architected and developed a CNN-based encoder–decoder and detector for satellite image steganography, achieving 99.99% training accuracy and 95.60% cross-domain accuracy. Enabled 256-bit payload embedding with controlled distortion (PSNR up to 147.16 dB; MSE ≤ 0.041) and validated stealth robustness through domain-generalized detectability benchmarking.",
                 "tags": [
-                    "Python",
-                    "SQL",
-                    "Data Analysis"
+                    "Deep Learning",
+                    "Computer Vision",
+                    "Research Analysis",
+                    "Model Development"
                 ]
             },
             {
-                "date": "[ Your Date Range Here ]",
-                "role": "Internship Role — 2",
-                "company": "Company Name · City / Remote",
-                "description": "Brief description of what you did, what impact you made, and what you built or analyzed. Replace this with your real experience details.",
+                "date": "April – May 2025",
+                "role": "Data Analytics Intern",
+                "company": "Edunet Foundation · Remote",
+                "description": "Analyzed large-scale energy consumption data using AI tools to derive actionable insights. Developed interactive dashboards to visualize trends and support sustainability-focused initiatives.",
                 "tags": [
-                    "Power BI",
-                    "Excel",
-                    "Dashboarding"
+                    "Data Analysis",
+                    "Dashboarding",
+                    "AI Tools"
                 ]
             }
         ],
-
-
         "education": {
-            "degree": "B.E. in Computer Science & Engineering",
-            "college": "Your College / University Name",
-            "year": "Expected Graduation: [ Year ]",
+            "degree": "B.Tech. in Computer Science & Engineering",
+            "college": "Medicaps University",
+            "year": "Expected Graduation: 2026",
             "badge": "CS Undergrad"
         },
-
-
         "skills": [
             {
                 "icon": "ri-code-line",
-                "title": "Programming & Tools",
+                "title": "Languages",
                 "pills": [
                     "Python",
-                    "Java",
+                    "SQL",
                     "JavaScript",
-                    "SQL"
+                    "HTML",
+                    "CSS"
                 ]
             },
             {
                 "icon": "ri-bar-chart-line",
-                "title": "Data & Analytics",
+                "title": "Data & AI",
                 "pills": [
-                    "Data Cleaning",
-                    "EDA",
-                    "Data Visualization",
-                    "Dashboarding",
-                    "Power BI",
-                    "Excel"
-                ]
-            },
-            {
-                "icon": "ri-stack-line",
-                "title": "Frameworks & Tech",
-                "pills": [
-                    "React.js",
-                    "Node.js",
-                    "MongoDB",
-                    "REST APIs"
-                ]
-            },
-            {
-                "icon": "ri-brain-line",
-                "title": "Core Concepts",
-                "pills": [
-                    "DSA",
-                    "DBMS",
-                    "ML Fundamentals",
-                    "OOP"
+                    "Data Analysis",
+                    "Machine Learning",
+                    "Data Modelling",
+                    "AI Integration"
                 ]
             },
             {
@@ -145,110 +123,100 @@
                 "pills": [
                     "Git",
                     "GitHub",
-                    "VS Code",
-                    "GPT-based AI Tools",
-                    "Jupyter"
+                    "Microsoft Excel",
+                    "Power BI",
+                    "Google Sheets",
+                    "JIRA"
+                ]
+            },
+            {
+                "icon": "ri-stack-line",
+                "title": "Project & Operations",
+                "pills": [
+                    "Project Management",
+                    "Agile Methodology",
+                    "Planning & Execution",
+                    "Workflow Coordination"
+                ]
+            },
+            {
+                "icon": "ri-brain-line",
+                "title": "Soft Skills",
+                "pills": [
+                    "Leadership",
+                    "Communication",
+                    "Teamwork",
+                    "Problem-Solving",
+                    "Organizational Skills"
                 ]
             }
         ],
-
-
         "resume": {
             "title": "GautamJagthap_Resume.pdf",
             "description": "Updated April 2025 · Data Analyst / Data Engineer focus",
             "downloadUrl": "GautamJagthap_Resume.pdf"
         }
     },
-
     "projects": [
         {
             "id": "001",
             "size": "large",
-            "title": "Project Name One",
-            "description": "Brief project description here — what problem it solves, what data or technology was used, and what the key outcome was. Add 2-3 lines of meaningful context.",
+            "title": "MAKNE – Brand–Creator Collaboration Platform",
+            "description": "Developed a SaaS platform to streamline brand–creator collaboration by structuring agreement lifecycles and tracking milestone-based workflows. Built interactive dashboards to monitor progress, visualize agreement stages, and support data-driven decision-making across campaigns. Enabled efficient tracking of submissions, revisions, and performance insights through a responsive and user-centric interface.",
             "tags": [
-                "Python",
-                "SQL",
-                "Power BI"
+                "Data Visualization",
+                "Dashboarding",
+                "Data Modelling",
+                "Business Workflow Analysis"
             ],
             "links": [
                 {
                     "label": "GitHub",
-                    "url": "#"
+                    "url": "https://github.com/MAKNE-Platform/makne-os"
                 },
                 {
                     "label": "Live",
-                    "url": "#"
+                    "url": "https://makne-os.vercel.app/"
                 }
             ]
         },
         {
             "id": "002",
             "size": "medium",
-            "title": "Project Name Two",
-            "description": "Brief project description here — what problem it solves and the tech used.",
+            "title": "Anomate Stream – Anomaly Detection System",
+            "description": "Built an end-to-end anomaly detection system to identify unusual patterns in system-level data, supporting security and performance monitoring. Applied machine learning techniques to analyze CPU, memory, and system call data, achieving high detection accuracy. Developed an interactive dashboard for visualizing anomalies, enabling data upload, labeling, and exportable insights for decision-making.",
             "tags": [
-                "React",
-                "Node.js",
-                "MongoDB"
+                "Machine Learning",
+                "Data Analysis",
+                "Anomaly Detection",
+                "Dashboarding"
             ],
             "links": [
                 {
                     "label": "GitHub",
-                    "url": "#"
+                    "url": "https://github.com/Anomate-stream/anomate-stream"
                 }
             ]
         },
         {
             "id": "003",
             "size": "full",
-            "title": "Project Name Three",
-            "description": "Brief description of this project and its impact.",
+            "title": "Energy Consumption & Trend Analysis",
+            "description": "Developed interactive Power BI dashboards to analyze energy consumption patterns across multiple sectors. Identified key trends and usage behaviors, providing actionable insights and recommendations to improve energy efficiency and support sustainability initiatives.",
             "tags": [
-                "Python",
-                "ML"
+                "Power BI",
+                "Data Visualization",
+                "Data Analysis",
+                "Dashboarding"
             ],
             "links": [
                 {
                     "label": "GitHub",
-                    "url": "#"
-                }
-            ]
-        },
-        {
-            "id": "004",
-            "size": "full",
-            "title": "Project Name Four",
-            "description": "Brief description of this project and its impact.",
-            "tags": [
-                "SQL",
-                "Excel"
-            ],
-            "links": [
-                {
-                    "label": "GitHub",
-                    "url": "#"
-                }
-            ]
-        },
-        {
-            "id": "005",
-            "size": "full",
-            "title": "Project Name Five",
-            "description": "Brief description of this project and its impact.",
-            "tags": [
-                "JavaScript",
-                "API"
-            ],
-            "links": [
-                {
-                    "label": "Live",
-                    "url": "#"
+                    "url": "https://github.com/GautamJagthap/Energy-Consumption-Final-Project-Submission"
                 }
             ]
         }
     ],
-
     "contact": {
         "heading": "Let's build something <em>meaningful</em> together.",
         "description": "Whether you're looking for a data analyst, a full-stack developer, or just want to talk tech — my inbox is open. I'm currently available for internships and full-time opportunities.",
