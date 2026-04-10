@@ -130,20 +130,20 @@
             <div class="form-row">
               <div class="form-group">
                 <label class="form-label">Name</label>
-                <input class="form-input" type="text" placeholder="Your name" />
+                <input id="name" class="form-input" type="text" placeholder="Your name" />
               </div>
               <div class="form-group">
                 <label class="form-label">Email</label>
-                <input class="form-input" type="email" placeholder="gjagthap90@gmail.com" />
+                <input id="email" class="form-input" type="email" placeholder="gjagthap90@gmail.com" />
               </div>
             </div>
             <div class="form-group">
               <label class="form-label">Subject</label>
-              <input class="form-input" type="text" placeholder="What's this about?" />
+              <input id="subject" class="form-input" type="text" placeholder="What's this about?" />
             </div>
             <div class="form-group">
               <label class="form-label">Message</label>
-              <textarea class="form-textarea" rows="5" placeholder="Tell me about your project, opportunity, or just say hi..."></textarea>
+              <textarea id="message" class="form-textarea" rows="5" placeholder="Tell me about your project, opportunity, or just say hi..."></textarea>
             </div>
             <button type="submit" class="form-submit">Send Message →</button>
           </form>
@@ -158,6 +158,7 @@
     <div class="footer-links" id="footerLinks"></div>
   </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

@@ -557,6 +557,7 @@ nav.scrolled {
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  text-align: center;
   padding: 0.85rem 2rem;
   background: transparent;
   color: var(--text);
